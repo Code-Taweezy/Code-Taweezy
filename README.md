@@ -5,7 +5,7 @@
      - quantum computing (beginner) 
      -  cybersecurity(beginner)
 - 💞️ I’m looking to collaborate on my latest project: [Thermos AI](https://github.com/Code-Taweezy/thermos-ai) (dm if interested)
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tawana-chinoruma/) or via [email](tawanarmc@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tawana-chinoruma/) or via [email]tawana.chinoruma.work@gmail.com)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love ducks (I don't think that was obvious) 
 
